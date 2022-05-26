@@ -1,12 +1,7 @@
-## My Project
+## AWS IoT TwinMkaker Documentation
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
+The open source version of the AWS IoT TwinMaker Documentation. You can submit feedback & requests for changes by submitting issues in this repo.
+To view a complete list of topics covered in this guide, see this repo's index [index](doc_source/index.md).
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.

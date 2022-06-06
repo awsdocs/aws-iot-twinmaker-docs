@@ -4,7 +4,7 @@ The open source version of the AWS IoT TwinMaker Documentation. You can submit f
 To view a complete list of topics covered in this guide, see this repo's index [index](doc_source/index.md).
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+For more information, see  [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
 
 ## License Summary
 

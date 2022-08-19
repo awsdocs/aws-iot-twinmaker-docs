@@ -43,4 +43,4 @@ For the CORS configuration of the Amazon S3 bucket,
 
 1. Choose **Save changes**\.
 
-For more information about configuring CORS for Amazon S3 buckets, see [Using cross-origin resource sharing (CORS)]([grafana-environment.md](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html))\.
+For more information about configuring CORS for Amazon S3 buckets, see [Using cross-origin resource sharing (CORS)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)\.

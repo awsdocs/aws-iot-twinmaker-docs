@@ -38,6 +38,7 @@ Amazon's trademarks and trade dress may not be used in
    + [Setting up your Grafana environment](grafana-environment.md)
       + [Amazon Managed Grafana](amazon-managed-grafana.md)
       + [Self-managed Grafana](self-managed-grafana.md)
+   + [CORS Configuration for Grafana scene viewer](cors-configuration-grafana.md)
    + [Creating a dashboard IAM role](dashboard-IAM-role.md)
    + [Creating an AWS IoT TwinMaker video player policy](tm-video-policy.md)
 + [AWS IoT TwinMaker video integration](video-integration.md)

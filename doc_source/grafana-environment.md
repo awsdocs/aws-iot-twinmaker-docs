@@ -9,3 +9,5 @@ You can use Amazon Managed Grafana for a fully managed service, or set up a Graf
 For more information about both Grafana environment options, see the following topics:
 + [Amazon Managed Grafana](amazon-managed-grafana.md)
 + [Self\-managed Grafana](self-managed-grafana.md)
+
+Also, you'll need to modify CORS configuration of the Amazon S3 bucket for allowing the Grafana user interface to load resources from the bucket. For the instructions, see [CORS Configuration for Grafana scene viewer](cors-configuration-grafana.md)\. 
